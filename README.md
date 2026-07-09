@@ -120,8 +120,6 @@ Interactive slicers allow users to filter the dashboard by:
 
 ---
 
-## Dashboard Preview
-
 ![Glassdoor dashboard] (<img width="836" height="492" alt="Screenshot 2026-07-09 144002" src="https://github.com/user-attachments/assets/3f64f34d-1d4a-4acd-b416-87b1456225a9" />)(<img width="834" height="489" alt="Screenshot 2026-07-09 144131" src="https://github.com/user-attachments/assets/1e034d62-e7d8-47dd-9637-479ce014467f" />)(<img width="834" height="489" alt="Screenshot 2026-07-09 144213" src="https://github.com/user-attachments/assets/8c826a07-603f-46c0-8379-b7bf5748a51c" />)
 
 ---
